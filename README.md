@@ -17,20 +17,6 @@ I am a full-stack software engineer with a strong passion for technology and dev
 - **Agile Planning**: Created an agile planning application with Tailwind CSS, Firebase, and Angular.
 - **Freelance Work**: Developed various applications for clients in different sectors, analyzing business and functional needs, translating them into technical specifications, and developing applications.
 
-### 📚 Education and Certifications
-
-- **Bachelor's in Information Technology**: ISET Kairouan (2020-2023)
-- **Engineering Degree in Computer Science**: TEK-UP University (2023-2026)
-- **Certifications**:
-  - Agile Fundamentals - SCRUMstudy (2024)
-  - Docker Certification - Udemy (2024)
-  - Full Stack Development with Spring Boot 3 & Angular - Udemy (2024)
-
-### 🌍 Languages
-
-- Arabic: Native
-- French: Advanced
-- English: Fluent
 
 ### 📫 Contact Me
 
