@@ -4,8 +4,8 @@ Full Stack Developer | AI & OpenAI Integrations | Clean Code | Hardworking & Pas
 
 ### 📫 Contact Me
 
-- **Email**: [Adem.belghith@tek-up.de](mailto:belghithadem20@gmail.com)  
-- **Portfolio**: [belghithadem.netlify.app](https://belghithadem.netlify.app/)  
+- **Email**: [belghithadem20@gmail.com](mailto:belghithadem20@gmail.com)  
+- **Portfolio**: [https://portfolio-8x6.pages.dev/](https://portfolio-8x6.pages.dev/)  
 - **LinkedIn**: [linkedin.com/in/belghith-adem-92982b197](https://www.linkedin.com/in/belghith-adem-92982b197)  
 - **GitHub**: [github.com/BelghithAdem](https://github.com/BelghithAdem)
 
