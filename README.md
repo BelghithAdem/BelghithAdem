@@ -1,26 +1,12 @@
 ### 👋 Hi there, I'm Adem Belghith
 
-I am a full-stack software engineer with a strong passion for technology and development. Currently, I am an engineering student in computer science, always looking to acquire new skills and contribute to innovative projects. Here's an overview of my skills and experiences:
-
-### 🔧 Technical Skills
-
-- **Frontend Development**: HTML5, CSS, JavaScript, Angular, Vue.js, Quasar Framework, Bootstrap, PrimeNG, Tailwind CSS
-- **Backend Development**: Spring Boot, Java EE, Node.js, Sails.js, PHP
-- **Databases**: Oracle, MySQL, MongoDB, PostgreSQL
-- **DevOps**: Docker, Docker Compose, GitHub, GitLab
-- **API Design and Documentation**: Swagger, Postman
-
-### 🛠️ Projects
-
-- **Social Media Platform**: Developed a secure platform with two-factor authentication, user and publication management, email notifications, and real-time private messaging via WebSocket. Utilized Spring Boot, Angular, Tailwind CSS, Spring Security, MySQL, and Hibernate.
-- **CMMS Application**: Designed and developed a web-based Computerized Maintenance Management System using Node.js, Sails.js, Angular, and MongoDB.
-- **Agile Planning**: Created an agile planning application with Tailwind CSS, Firebase, and Angular.
-- **Freelance Work**: Developed various applications for clients in different sectors, analyzing business and functional needs, translating them into technical specifications, and developing applications.
-
+Full Stack Developer | AI & OpenAI Integrations | Clean Code | Hardworking & Passionate
 
 ### 📫 Contact Me
 
-- **Email**: [Adem.belghith@tek-up.de](mailto:Adem.belghith@tek-up.de)
-- **Portfolio**: [belghithadem.netlify.app](https://belghithadem.netlify.app/)
-- **LinkedIn**: [linkedin.com/in/belghith-adem-92982b197](https://www.linkedin.com/in/belghith-adem-92982b197)
+- **Email**: [Adem.belghith@tek-up.de](mailto:Adem.belghith@tek-up.de)  
+- **Portfolio**: [belghithadem.netlify.app](https://belghithadem.netlify.app/)  
+- **LinkedIn**: [linkedin.com/in/belghith-adem-92982b197](https://www.linkedin.com/in/belghith-adem-92982b197)  
 - **GitHub**: [github.com/BelghithAdem](https://github.com/BelghithAdem)
+
+![Profile GIF](https://github-production-user-asset-6210df.s3.amazonaws.com/126770762/308601417-23cfbe66-9e13-4401-b9bf-9397321a22ed.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251118T155910Z&X-Amz-Expires=300&X-Amz-Signature=e3a582b09af99a7a4c9855b052bcc8ff6a06090da14d47824e8e96b8bdab946f&X-Amz-SignedHeaders=host)
