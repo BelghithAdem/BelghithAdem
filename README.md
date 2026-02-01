@@ -1,12 +1,42 @@
-### 👋 Hi there, I'm Adem Belghith
+<h1 align="center">Hey there 👋</h1>
 
-Full Stack Developer | AI & OpenAI Integrations | Clean Code | Hardworking & Passionate
+<h3 align="left">👩‍💻 About Me</h3>
 
-### 📫 Contact Me
+<p align="left">
+  I'm Adem from Tunisia 🇹🇳<br><br>
+  - 🔭 I’m working as a Software Engineer<br>
+  - 📚 I’m currently learning DevOps, GenAI, Agents, RAG, MCP, Clean Code, and Clean Architecture
+</p>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+<h3 align="left">🛠 Languages & Tools</h3>
+
+<!-- Option A (recommended): skillicons.dev -->
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,tailwind,postgres,mysql,mongodb,redis,docker,kubernetes,git,github,linux,bash,nginx,postman,py,java&perline=11" />
+</div>
+
+<!-- Option B: Devicon icons (use if you prefer individual control)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+</p>
+-->
+
+<h3 align="left">📫 Contact Me</h3>
 
 - **Email**: [belghithadem20@gmail.com](mailto:belghithadem20@gmail.com)  
-- **Portfolio**: [https://portfolio-8x6.pages.dev/](https://portfolio-8x6.pages.dev/)  
-- **LinkedIn**: [linkedin.com/in/belghith-adem-92982b197](https://www.linkedin.com/in/belghith-adem-92982b197)  
-- **GitHub**: [github.com/BelghithAdem](https://github.com/BelghithAdem)
+- **Portfolio**: https://portfolio-8x6.pages.dev/  
+- **LinkedIn**: https://www.linkedin.com/in/belghith-adem-92982b197/  
+- **GitHub**: https://github.com/BelghithAdem  
 
-![Profile GIF](https://github-production-user-asset-6210df.s3.amazonaws.com/126770762/308601417-23cfbe66-9e13-4401-b9bf-9397321a22ed.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251118T155910Z&X-Amz-Expires=300&X-Amz-Signature=e3a582b09af99a7a4c9855b052bcc8ff6a06090da14d47824e8e96b8bdab946f&X-Amz-SignedHeaders=host)
+![Profile GIF](https://github-production-user-asset-6210df.s3.amazonaws.com/126770762/308601417-23cfbe66-9e13-4401-b9bf-9397321a22ed.gif)
