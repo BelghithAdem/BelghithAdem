@@ -37,6 +37,7 @@
 - **Email**: [belghithadem20@gmail.com](mailto:belghithadem20@gmail.com)  
 - **Portfolio**: https://portfolio-8x6.pages.dev/  
 - **LinkedIn**: https://www.linkedin.com/in/belghith-adem-92982b197/  
-- **GitHub**: https://github.com/BelghithAdem  
+- **GitLab**: https://gitlab.com/BelghithAdem
+
 
 ![Profile GIF](https://github-production-user-asset-6210df.s3.amazonaws.com/126770762/308601417-23cfbe66-9e13-4401-b9bf-9397321a22ed.gif)
