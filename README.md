@@ -4,7 +4,7 @@
 
 <p align="left">
   I'm Adem from Tunisia 🇹🇳<br><br>
-  - I’m working as a Software Engineer <br>
+  - I’m working as a Software Engineer<br>
   - I’m currently learning DevOps, GenAI, Agents, RAG, MCP, Clean Code, and Clean Architecture
 </p>
 
