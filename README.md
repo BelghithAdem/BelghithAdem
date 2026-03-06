@@ -12,7 +12,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h3 align="left">🛠 Languages & Tools </h3>
+<h3 align="left">🛠 Languages & Tools</h3>
 
 <!-- Option A (recommended): skillicons.dev -->
 <div align="left">
