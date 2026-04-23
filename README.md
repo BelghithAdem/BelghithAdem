@@ -32,7 +32,7 @@
 </p>
 -->
 
-<h3 align="left">📫 Contact Me</h3>
+<h3 align="left">📫 Contact Me</h3> 
 
 - **Email**: [belghithadem20@gmail.com](mailto:belghithadem20@gmail.com)  
 - **Portfolio**: https://portfolio-8x6.pages.dev/  
